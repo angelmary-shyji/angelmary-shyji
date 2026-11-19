@@ -4,7 +4,7 @@ Software developer working across **web development, Java, and data analysis**, 
 
 - 🔭 Currently building: my React portfolio and full-stack web projects
 - 🌱 Learning: cybersecurity fundamentals and modern web tooling
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/angelmaryshyji-/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/angelmaryshyji-/) [Portfolio](https://angelmaryshyji.dev/)
 
 ### 🛠️ Tech stack
 
